@@ -1,0 +1,11 @@
+p {
+    width: 100px;
+    height: 100px;
+    background-color: chocolate;
+}
+.wybrane1 {
+    background-color: aqua;
+}
+.wybrane2 {
+    opacity: 0.5;
+}
